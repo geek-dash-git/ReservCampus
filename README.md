@@ -1,7 +1,4 @@
 # ReservCampus
-Gestions des salles et materiaux d'un domaine, (universiter, colleges, lycee, entropots, etc..)
-
-# ReservCampus
 
 Application web de réservation de **salles et de matériel** pour un campus :
 voir en temps réel ce qui est libre, réserver en quelques clics, annuler quand
